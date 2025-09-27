@@ -1,6 +1,6 @@
 <h1>Hey 👋 What's up?</h1>
 
-<p>👉 My name is Jakub Kłało and I'm a Fullstack website developer from Poland.<br>😎 I've been creating apps and learning programming since 2021.<br>🎓 I'm a graduate engineer with a degree in Multimedia Engineering from the Lublin University of Technology in Poland.<br>⚙️ My studies focused on sound and image processing, as well as IoT, robotics, and emerging technologies.<br>🪁 I'm passionate about new technologies and minimalist, clean design.<br>📫 You can reach me via email: <a href="mailto:jakub@klalo.pl">jakub@klalo.pl</a></p>
+<p>👉 My name is Jakub Kłało and I'm a Full-Stack developer from Poland.<br>😎 I've been creating apps and learning programming since 2021.<br>🎓 I'm a graduate engineer with a degree in Multimedia Engineering from the Lublin University of Technology.<br>⚙️ My studies focused on sound and image processing, as well as IoT, robotics, and automation systems.<br>🪁 I'm passionate about web development, containerization, and minimalist design.<br>📫 You can reach me via email: <a href="mailto:jakub@klalo.pl">jakub@klalo.pl</a><br>🖥️ Check my live server status and hosted services at: <a href="https://homepage.klalo.pl">homepage.klalo.pl</a></p>
 
 <h2>Technologies I work with 🛠️</h2>
 
@@ -79,7 +79,7 @@
 
 <h2>☕ Support My Work</h2>
 
-<p>If you find my work useful or interesting, consider buying me a coffee to fuel my coding sessions and support my open-source contributions.</p>
+<p>If you find my work useful or interesting, consider buying me a coffee to support my coding journey and open-source contributions.</p>
 
 <a href="https://buycoffee.to/kubaklalo" target="_blank">
   <img src="./buycoffee-to.png" width="169" height="25" alt="Buy me a coffee on buycoffee.to" />
