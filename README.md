@@ -1,10 +1,10 @@
 <h1>Hey 👋 What's up?</h1>
 
-<p>👉 My name is Jakub Kłało and I'm a Fullstack developer from Poland.<br>😎 Creating apps and learning programming since 2021.<br>🎓 I'm studying Multimedia Engineering at the Lublin University of Technology in Poland.<br>⚙️ My studies focus on sound and image handling, as well as IoT, robotics and future technologies.<br>🪁 I'm interested in new technologies and minimalist, clean design.<br>📫 You can reach me on mail: <a href="mailto:kubaklalo@gmail.com">kubaklalo@gmail.com</a></p>
+<p>👉 My name is Jakub Kłało and I'm a Fullstack website developer from Poland.<br>😎 I've been creating apps and learning programming since 2021.<br>🎓 I'm a graduate engineer with a degree in Multimedia Engineering from the Lublin University of Technology in Poland.<br>⚙️ My studies focused on sound and image processing, as well as IoT, robotics, and emerging technologies.<br>🪁 I'm passionate about new technologies and minimalist, clean design.<br>📫 You can reach me via email: <a href="mailto:jakub@klalo.pl">jakub@klalo.pl</a></p>
 
-<h2>I code with 🛠️</h2>
+<h2>Technologies I work with 🛠️</h2>
 
-<h3>Languages and Scripts</h3>
+<h3>Programming Languages and Scripts</h3>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
@@ -64,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="35" alt="discordjs logo" />
 </div>
 
-<h2>Some stats 📊</h2>
+<h2>GitHub Statistics 📊</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Quanosek&theme=nord&column=6&row=1&margin-w=1&margin-h=200&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
@@ -77,8 +77,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quanosek&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="125" alt="languages graph"  />
 </div>
 
-<h2>Support me 🪙</h2>
+<h2>☕ Support My Work</h2>
 
-<a href="https://ko-fi.com/quanosek">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="quanosek" />
+<p>If you find my work useful or interesting, consider buying me a coffee to fuel my coding sessions and support my open-source contributions.</p>
+
+<a href="https://buycoffee.to/kubaklalo" target="_blank">
+  <img src="./buycoffee-to.png" width="169" height="25" alt="Buy me a coffee on buycoffee.to" />
 </a>
+
+<p><strong>Thank you for any support! 🙏</strong></p>
