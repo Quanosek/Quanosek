@@ -1,88 +1,37 @@
-<h1>Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
-<p>👉 My name is Jakub Kłało and I'm a Full-Stack developer from Poland.<br>😎 I've been creating apps and learning programming since 2021.<br>🎓 I'm a graduate engineer with a degree in Multimedia Engineering from the Lublin University of Technology.<br>⚙️ My studies focused on sound and image processing, as well as IoT, robotics, and automation systems.<br>🪁 I'm passionate about web development, containerization, and minimalist design.<br>📫 You can reach me via email: <a href="mailto:jakub@klalo.pl">jakub@klalo.pl</a><br>🖥️ Check my live server status and hosted services at: <a href="https://homepage.klalo.pl">homepage.klalo.pl</a></p>
+👉 My name is Jakub Kłało and I'm a Full-Stack developer from Poland.<br>
+😎 I've been creating apps and learning programming since 2021.<br>
+🎓 I'm a graduate engineer with a degree in Multimedia Engineering from the Lublin University of Technology.<br>
+⚙️ My studies focused on sound and image processing, as well as IoT, robotics, and automation systems.<br>
+🪁 I'm passionate about progressive web applications, containerization, and minimalistic design.<br>
+📫 You can reach me via email: <a href="mailto:jakub@klalo.pl">jakub@klalo.pl</a><br>
+🖥️ Check my custom server live status and all currently hosted services at: <a href="https://homepage.klalo.pl">homepage.klalo.pl</a>
 
-<h2>Technologies I work with 🛠️</h2>
+## Technologies I work with 🛠️
 
-<h3>Programming Languages and Scripts</h3>
+### Environments
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo" />
-</div>
+![](https://skillicons.dev/icons?i=vscode,git,githubactions,github,gitlab,nodejs,npm,pnpm,yarn)
 
-<h3>Frameworks and Libraries</h3>
+### Frontend
 
-<div>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=sass" height="35" alt="sass logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="prisma logo"  />
-</div>
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,vue,sass,tailwind)
 
-<h3>Platforms and Tools</h3>
+### Backend
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="35" alt="nginx logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" alt="raspberrypi logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="35" alt="discord logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="35" alt="discordjs logo" />
-</div>
+![](https://skillicons.dev/icons?i=nginx,nestjs,adonis,php,postgres,prisma,postman)
 
-<h2>GitHub Statistics 📊</h2>
+### Platforms
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Quanosek&theme=nord&column=6&row=1&margin-w=1&margin-h=200&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+![](https://skillicons.dev/icons?i=cloudflare,docker,raspberrypi,linux,bash,discord,discordjs,py)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Quanosek&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="125" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quanosek&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true&bg_color=20232a" height="125" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Quanosek&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quanosek&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="125" alt="languages graph"  />
-</div>
+## ☕ Support My Work
 
-<h2>☕ Support My Work</h2>
+If you find my work useful or interesting, consider buying me a coffee to support my coding journey and open-source contributions.
 
-<p>If you find my work useful or interesting, consider buying me a coffee to support my coding journey and open-source contributions.</p>
-
-<a href="https://buycoffee.to/kubaklalo" target="_blank">
-  <img src="./buycoffee-to.png" width="169" height="25" alt="Buy me a coffee on buycoffee.to" />
+<a href="https://buycoffee.to/kubaklalo">
+  <img alt="Buy me a coffee" src="https://storagebuycoffeeprod.blob.core.windows.net/content-files/Logo/0197ef01-0531-46ad-b782-1ea5a5bca0b7.png" height="32" />
 </a>
 
-<p><strong>Thank you for any support! 🙏</strong></p>
+**Thank you for any support! 🙏**
