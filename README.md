@@ -13,10 +13,10 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="34%">
       <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quanosek&theme=github_dark&utcOffset=1" width="100%" />
     </td>
-    <td valign="top" width="34%">
+    <td valign="top" width="33%">
       <img alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quanosek&theme=github_dark" width="100%" />
     </td>
     <td valign="top" width="33%">
@@ -45,15 +45,15 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="padding-bottom: 4px;">
       <h3>Web Platforms</h3>
       <p>Modern, scalable web applications with clear UX and maintainable architecture.</p>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="padding-bottom: 4px;">
       <h3>Backend and APIs</h3>
       <p>Reliable services, clean API contracts, and a documentation-first development flow.</p>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="padding-bottom: 4px;">
       <h3>Mobile with Expo</h3>
       <p>Cross-platform React Native apps for Android and iOS with a native-first user experience.</p>
     </td>
