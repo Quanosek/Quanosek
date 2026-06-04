@@ -1,20 +1,29 @@
 # Hey 👋 What's up?
 
-## Profile signal
+<table width="100%">
+  <tr>
+    <td valign="top" width="67%">
+      <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quanosek&theme=github_dark" width="100%" />
+    </td>
+    <td valign="top" width="33%">
+      <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quanosek&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quanosek&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quanosek&theme=github_dark" width="49%" />
-  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quanosek&theme=github_dark&utcOffset=1" width="49%" />
-</p>
-
-<p align="center">
-  <img alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quanosek&theme=github_dark" width="49%" />
-  <img alt="Top languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quanosek&theme=github_dark" width="49%" />
-</p>
+<table width="100%">
+  <tr>
+    <td valign="top" width="33%">
+      <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quanosek&theme=github_dark&utcOffset=1" width="100%" />
+    </td>
+    <td valign="top" width="34%">
+      <img alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quanosek&theme=github_dark" width="100%" />
+    </td>
+    <td valign="top" width="33%">
+      <img alt="Top languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quanosek&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## About me
 
