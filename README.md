@@ -34,17 +34,17 @@
 
 ## What I build
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td valign="top" width="33%">
       <h3>Web Platforms</h3>
       <p>Modern, scalable web applications with clear UX and maintainable architecture.</p>
     </td>
-    <td>
+    <td valign="top" width="33%">
       <h3>Backend and APIs</h3>
       <p>Reliable services, clean API contracts, and a documentation-first development flow.</p>
     </td>
-    <td>
+    <td valign="top" width="33%">
       <h3>Mobile with Expo</h3>
       <p>Cross-platform React Native apps for Android and iOS with a native-first user experience.</p>
     </td>
